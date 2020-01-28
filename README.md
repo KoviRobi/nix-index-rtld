@@ -7,6 +7,8 @@ nix-expression using buildFHSUserEnv, which could run that program.
 ## Links
 
 - Inspiration from https://discourse.nixos.org/t/how-to-make-nixos-so-easy-that-people-can-be-productive-up-front-without-having-to-first-learn-the-nix-language
+- Especially https://github.com/lassulus/nix-autobahn
+- Potentially helpful http://s.eresi-project.org/inc/articles/elf-rtld.txt
 - Nix-inndex https://github.com/bennofs/nix-index
 - Creating a shared library with Rust https://doc.rust-lang.org/1.5.0/book/rust-inside-other-languages.html
 - Rust ELF https://github.com/cole14/rust-elf
